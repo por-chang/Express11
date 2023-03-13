@@ -19,4 +19,4 @@ Can't seem to log into Heroku. Forgot Password and need to be paid
 ## Visuals
 Here is a visual of the front-end of the webpage design.
 
-![Alt text](.assets/note.png) 
+![Alt text](assets/note.png) 
